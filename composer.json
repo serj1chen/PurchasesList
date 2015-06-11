@@ -1,0 +1,10 @@
+{
+	"autoload": {
+        	"psr-4": {
+            		"Purchases\\": "Purchases/"
+        	}
+     	},
+	"require": {
+        	"cboden/ratchet": "0.3.*"
+    	}
+}
